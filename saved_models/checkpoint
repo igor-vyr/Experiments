@@ -1,2 +1,2 @@
-model_checkpoint_path: "final_minibatch.ckpt"
-all_model_checkpoint_paths: "final_minibatch.ckpt"
+model_checkpoint_path: "dnn_mnist_model.ckpt"
+all_model_checkpoint_paths: "dnn_mnist_model.ckpt"
